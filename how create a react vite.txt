@@ -1,0 +1,20 @@
+first enter 
+npm create vite
+then
+enter our project name basicaly folder name 
+then
+they will give option for what we need vite there select react and javascripy
+then 
+go to the created folder by using
+cd .\foldername\
+then
+npm install
+and for running
+npm run dev
+
+in components to do styling there itself 
+we have to wrap our component code in <Wrapper></Wrapper>
+then after that write our code in wrapper 
+
+then install 
+npm i styled-components 
