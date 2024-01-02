@@ -1,7 +1,7 @@
 import React from 'react'
 import Navbar from './components/Navbar'
 import UserDetails from './components/UserDetails'
-import { DeleteAllUser } from './components/DeleteAllUser'
+// import  DeleteAllUser  from './components/DeleteAllUser'
 
 const App = () => {
   return (
